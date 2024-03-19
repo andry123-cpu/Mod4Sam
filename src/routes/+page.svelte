@@ -8,15 +8,15 @@
             <div class="container info-container">
                 <div class="info-text">
                     <h1>
-                    <p class="animate-text-1">Lorem ipsum dolor sit,</p>
-                    <p class="text-2">Lorem ipsum dolor sit amet.</p>
+                    <p class="animate-text-1">Привет, я ученик </p>
+                    <p class="text-2">Онлайн - школы МЭО. Поделится чем-то из своего дня.</p>
                     </h1>
                 </div>
                 <h2 class="subtitle">
-                   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium architecto aut, cupiditate dolores ducimus expedita labore nemo odio quibusdam quidem sapiente soluta.
+                  Мне очень нравится работать программистом в данном курсе.
                 </h2>
                 <div style="color:black" class="scroll-button animate-scroll" tabindex="0">
-                    <a href="/about">Click Here</a><div class="arrow">→</div>
+                    <a href="/blog">Жми</a><div class="arrow">→</div>
                 </div>
             </div>
         </div>
